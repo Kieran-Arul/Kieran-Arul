@@ -10,4 +10,4 @@
 ## Contact Details
 
 - Email: arul.kieran@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kieran-arul-341639103
+- LinkedIn: https://www.linkedin.com/in/kieran-arul
