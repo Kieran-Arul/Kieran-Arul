@@ -1,9 +1,10 @@
 ## About Me
 
 - 👋 Hi, I’m Kieran
-- 📖 I'm currently studying Computer Science at Durham University
-- 👀 What excites me most is identifying and building simple solutions to complex problems
-- 🖥 I have experience in Java SE, Data Science with Python, Node.js, Express and MongoDB
+- 📖 I'm currently a Graduate Software Engineer
+- ✍️ Here you will find a mix of both personal projects and repos to track my learning
+- 👀 What excites me most is identifying and building solutions to complex problems
+- 🖥 I have experience in Java SE, Data Science with Python, and the MERN stack (less experience in React)
 - 🌱 I’m currently learning Java Spring, Networking and DevOps
 - 📞 If you are solving an interesting problem, I'd love to collaborate
 
